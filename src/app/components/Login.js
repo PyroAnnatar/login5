@@ -28,7 +28,7 @@ const Login = () => {
         <hr className="flex-grow border-[1px] border-black/25" />
       </div>
 
-      <div className="flex justify-around w-1/2 mx-auto my-7">
+      <div className="flex justify-around w-1/2 mx-auto my-4">
         <a href="#" className="">
           <img src="/image 1.png" alt="google link" />
         </a>
@@ -36,6 +36,7 @@ const Login = () => {
           <img src="/image 2.png" alt="facebook link" />
         </a>
       </div>
+
       <p className="font-semibold text-center text-[#095F59BF] text-xl">
         Not registered yet? Click{" "}
         <a href="#" className="underline text-blue-400">
